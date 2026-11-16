@@ -1,0 +1,39 @@
+Baseline (24 C, psi 0, CHW 14, Jan 20.31 28283 1.0 0.0 14.0
+Baseline (24 C, psi 0, CHW 14, Feb 20.4 28333 1.0 0.0 14.0
+Baseline (24 C, psi 0, CHW 14, Mar 22.7 29729 1.0 0.0 14.0
+Baseline (24 C, psi 0, CHW 14, Apr 24.8 31146 1.0 0.0 14.0
+Baseline (24 C, psi 0, CHW 14, May 26.48 32539 1.0 0.0 14.0
+Baseline (24 C, psi 0, CHW 14, Jun 27.02 33098 1.0 0.0 14.0
+Baseline (24 C, psi 0, CHW 14, Jul 26.31 32380 1.0 0.0 14.0
+Baseline (24 C, psi 0, CHW 14, Aug 26.15 32227 1.0 0.0 14.0
+Baseline (24 C, psi 0, CHW 14, Sep 25.88 31997 1.0 0.0 14.0
+Baseline (24 C, psi 0, CHW 14, Oct 25.75 31882 1.0 0.0 14.0
+Baseline (24 C, psi 0, CHW 14, Nov 24.04 30606 1.0 0.0 14.0
+Baseline (24 C, psi 0, CHW 14, Dec 21.89 29227 1.0 0.0 14.0
+Baseline (24 C, psi 0, CHW 14, TCS 35 C, 0.5 L/min) E_cool MWh/yr 271.3 annual pPUE 1.0916
+Optimised air side, TCS 35 C Jan 20.31 25928 1.0 0.15 16.34
+Optimised air side, TCS 35 C Feb 20.4 25978 1.0 0.15 16.34
+Optimised air side, TCS 35 C Mar 22.7 27357 1.0 0.15 16.34
+Optimised air side, TCS 35 C Apr 24.8 28757 1.0 0.15 16.34
+Optimised air side, TCS 35 C May 26.48 30136 1.0 0.15 16.34
+Optimised air side, TCS 35 C Jun 27.02 30691 1.0 0.15 16.34
+Optimised air side, TCS 35 C Jul 26.31 29978 1.0 0.15 16.34
+Optimised air side, TCS 35 C Aug 26.15 29827 1.0 0.15 16.34
+Optimised air side, TCS 35 C Sep 25.88 29599 1.0 0.15 16.34
+Optimised air side, TCS 35 C Oct 25.75 29485 1.0 0.15 16.34
+Optimised air side, TCS 35 C Nov 24.04 28222 1.0 0.15 16.34
+Optimised air side, TCS 35 C Dec 21.89 26861 1.0 0.15 16.34
+Optimised air side, TCS 35 C E_cool MWh/yr 250.4 annual pPUE 1.0836
+Optimised air side, TCS 40 C ( Jan 20.31 24885 1.0 0.15 16.34
+Optimised air side, TCS 40 C ( Feb 20.4 24933 1.0 0.15 16.34
+Optimised air side, TCS 40 C ( Mar 22.7 26206 1.0 0.15 16.34
+Optimised air side, TCS 40 C ( Apr 24.8 27392 1.0 0.15 16.34
+Optimised air side, TCS 40 C ( May 26.48 28370 1.0 0.15 16.34
+Optimised air side, TCS 40 C ( Jun 27.02 28694 1.0 0.15 16.34
+Optimised air side, TCS 40 C ( Jul 26.31 28270 1.0 0.15 16.34
+Optimised air side, TCS 40 C ( Aug 26.15 28171 1.0 0.15 16.34
+Optimised air side, TCS 40 C ( Sep 25.88 28017 1.0 0.15 16.34
+Optimised air side, TCS 40 C ( Oct 25.75 27938 1.0 0.15 16.34
+Optimised air side, TCS 40 C ( Nov 24.04 26957 1.0 0.15 16.34
+Optimised air side, TCS 40 C ( Dec 21.89 25756 1.0 0.15 16.34
+Optimised air side, TCS 40 C (W40), 0.35 L/min E_cool MWh/yr 237.8 annual pPUE 1.0788

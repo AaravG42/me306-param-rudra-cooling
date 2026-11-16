@@ -1,0 +1,6 @@
+A baseline psi 0.0 chw 14.0 W 31291 COP 9.524 pPUE 1.0926 Ecl 0.0 Xcl 0.0
+B best CHW only psi 0.0 chw 15.17 W 31035 COP 9.602 pPUE 1.0918 Ecl -0.0 Xcl -0.0
+C + bypass recirc (T_in 24) psi 0.145 chw 13.34 W 30632 COP 9.729 pPUE 1.0905 Ecl 0.0 Xcl 0.0
+D + T_in 27 psi 0.15 chw 16.34 W 28900 COP 10.312 pPUE 1.0847 Ecl 0.0 Xcl 0.0
+E + W40 liquid 0.35 L/min psi 0.15 chw 16.34 W 27504 COP 10.835 pPUE 1.08 Ecl 0.0 Xcl 0.0
+ok

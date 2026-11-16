@@ -1,0 +1,13 @@
+S3 baseline: m_s=10.10256915622031 kg/s, Q_air=127 kW, T_in=24.0 C, beta=0.05
+  psi    T_c    T_h  T_ret    m_c  mc/ms   SHI   RHI   RTI%  Xrec W  Xbyp W   Qerr W coilOK
+ 0.00  24.00  36.45  35.82 10.634  1.053  0.00  1.00   95.0     0.0   128.1 0.00e+00      1
+ 0.10  22.62  36.45  35.76  9.571  0.947  0.10  0.90  105.6   293.1   142.8-7.28e-11      1
+ 0.20  20.89  36.45  35.67  8.507  0.842  0.20  0.80  118.8   662.1   161.3 1.46e-11      1
+ 0.30  18.67  36.45  35.56  7.444  0.737  0.30  0.70  135.7  1140.7   185.3 1.46e-11      1
+ 0.40  15.70  36.45  35.41  6.381  0.632  0.40  0.60  158.3  1786.4   217.8-2.91e-11      0
+ 0.50  11.55  36.45  35.20  5.317  0.526  0.50  0.50  190.0  2705.4   263.9-2.91e-11      0
+psi_max (T_c >= T_chw+3K = 17.0 C): 0.360;  psi_max (T_c > dew point 12.0 C): 0.491
+FNM: surface 29.8 m2; 0.5 % open area = 1488 cm2 (93 cm2/rack) at dP=+2.5 Pa -> beta=0.021, m_c=10.408 kg/s, server flow change +0.83 %
+FNM: beta=0.05 at +2.5 Pa needs open area 1.21 % of surface = 3606 cm2 (225 cm2/rack)
+FNM: passive psi=0.20 at -2 Pa needs total opening 1.55 m2 (969 cm2/rack)
+wrote figures/s3_*.png and results/s3_baseline.json
